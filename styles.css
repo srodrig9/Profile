@@ -1,0 +1,17 @@
+.test {
+    color: blue;
+}
+
+.sansserif {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+  
+.fontw {
+    font-weight: 200;
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
